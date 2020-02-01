@@ -3,8 +3,9 @@
 ## HelloTedla
 
 ### App Description
-`TODO://` Add app description
-
+> Text changer
+> Background color can change
+> User can change the text
 ### App Walk-though
 
 <img src="HelloTedla.gif" width=200><br>
